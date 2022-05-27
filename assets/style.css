@@ -1,16 +1,44 @@
-*{
-    margin:0;
-    padding:0;
-  }
-  
   body {
       background-color: white;
   }
 
+  main {
+background-color:rgb(213, 193, 213)
+}
+
   .header {
       padding: 20px;
-      font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-      background-color: aquamarine;
-      color: beige;
+      font-family: Arial, Helvetica, sans-serif,'Courier New', Courier, monospace,'Times New Roman', Times, serif;
+      background-color: rgb(206, 243, 243);
+      color:purple
+    }
+
+    header a{
+        color: blueviolet;
+}
+
+    .header nav {
+       text-align: right;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
     }
     
+.header nav ul {
+    list-style-type: none;
+    }
+    
+    .header nav ul li {
+        display: inline-block;
+        margin-left: 15px;
+    } 
+    a {
+        color: #ffffff;
+        text-decoration: none;
+    }
+    
+
+
+
+
+    
+

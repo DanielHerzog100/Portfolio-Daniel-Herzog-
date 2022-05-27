@@ -1,1 +1,2 @@
 # Portfolio-Daniel-Herzog-
+I had trouble with this assigement. I couldn't book my tutor on wednesday or thurday. I know I must resubmit this assigmenet. I spent several hours on it and got stuck.  My apologies.
